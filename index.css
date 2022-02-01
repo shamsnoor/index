@@ -18,7 +18,7 @@ background-color: rgb(201, 219, 252);}
 .admin-form form .btn:hover{background-color: royalblue;}
 .admin-form form .btn{border-radius: 20px;}
 .admin-form form input:focus{background-color: salmon;}
-.bk {background-image:url("../image/1.jpg");}
+.bk {background-image:url("image/1.jpg");}
 
 
 
