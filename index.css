@@ -1,0 +1,43 @@
+/*login*/
+a {color: rgb(8, 44, 163);}
+.admin-form{ background-color: bisque;
+border-style: solid; border-color: rgb(161, 7, 84);
+border-radius: 35px;}
+.admin-form{text-align: center;}
+.admin-form{width: 600px;}
+.admin-form{margin:130px 25px 40px;
+padding: 40px 40px 40px 40px;}
+.admin-form form input{width: 70%;
+margin: 7px;
+padding: 2%;}
+.admin-form a{text-decoration:none;
+color: rgb(180, 6, 108);
+font-size: larger;}
+.admin-form form .btn{width: 30%;
+background-color: rgb(201, 219, 252);}
+.admin-form form .btn:hover{background-color: royalblue;}
+.admin-form form .btn{border-radius: 20px;}
+.admin-form form input:focus{background-color: salmon;}
+.bk {background-image:url("../image/1.jpg");}
+
+
+
+
+/*register*/
+.register-form {text-align: center;
+background-color: rgb(4, 11, 53);}
+.register-form form h1 {color: rgb(248, 215, 166);}
+.register-form form input{color: rgb(124, 100, 2);}
+.register-form form label{color: burlywood;}
+.register-form{width: 600px;
+padding:30px 30px 30px 30px ;
+margin: 70px auto;}
+.register-form form input {width: 70%;
+padding: 2%;
+margin: 2%;}
+.register-form form input:focus{background-color: rgb(252, 206, 233);}
+.register-form form .rbt:hover{background-color: rgb(68, 111, 240);}
+.register-form form label{font-size: larger;}
+.register-form form h1 { font-size: xx-large;
+font-style: oblique;}
+body {background-image: url("../image/light.jpg");}
